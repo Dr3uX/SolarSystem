@@ -121,20 +121,20 @@ nav a:hover {
     }
 
     h1{
-        font-size:10px;
+        font-size:15px;
         color:white;
     }
 
     nav a {
-        padding: 7px 5px;
+        padding: 10px 7px;
         height:10px;
-        font-size:5px;
+        font-size:7px;
     }
     p{
-        font-size: 7px;
+        font-size: 10px;
     }
     footer p{
-        font-size: 7px;
+        font-size: 10px;
     }
     img{
         width: 100px;
